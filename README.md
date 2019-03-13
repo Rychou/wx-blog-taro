@@ -6,7 +6,10 @@
   +-- dist 编译后的微信源码目录
   +-- src 源码目录
   |   +-- pages 页面目录
-  |   |   +-- index index页面
+  |   |   +-- posts posts目录
+  |   |   |   +-- show show目录
+  |   |   |   +-- index.js posts页面文件
+  |   |   |   +-- index.scss posts页面样式文件
   |   +-- app.js 入口文件，在此做全局配置
   |   +-- app.scss 入口样式文件
   |   +-- index.html 一般不需要配置
